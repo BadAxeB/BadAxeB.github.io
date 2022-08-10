@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Week 1 Journey <aref="https://github.com/BadAxeB/BadAxeB.io/blob/main/Week1.md">link </a>
 
+[Week 1 Journey](https://github.com/BadAxeB/BadAxeB.io/blob/main/Week1.md)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

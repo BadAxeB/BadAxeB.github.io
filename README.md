@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
- Week 1 Journey <aref=https://github.com/BadAxeB/BadAxeB.io/blob/main/Week1.md>link </a>
+ Week 1 Journey <aref="https://github.com/BadAxeB/BadAxeB.io/blob/main/Week1.md">link </a>
 ## Header 2
 ### Header 3
 
